@@ -6,7 +6,7 @@
 
 //first element is \n and second is space
 
-+++++++++++++ //setting up \n (4 elements)
+++++++++++ //setting up \n (4 elements)
 >>++++[<++++++++>-] //setting up space (3 elements)
 > //keeping 1 slot open for loops
 
@@ -52,7 +52,7 @@
 
 <<<.>>> //Space and pointer
 
----------. //107
+----------. //107
 +++. //110
 +. //111
 ++++++++. //119
